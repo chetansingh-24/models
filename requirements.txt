@@ -1,3 +1,9 @@
 fastapi[standard]
 uvicorn
 pydantic
+sentence-transformers
+torch
+transformers
+numpy
+scipy
+
